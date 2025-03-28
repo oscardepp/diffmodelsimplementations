@@ -1,0 +1,1 @@
+This repo contains several different implementations of Diffusion models that we have been experimenting with over the last couple months. These include SDEs, DDIM, DDPM, and different score objectives, as well as noise schedules. 
